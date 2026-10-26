@@ -2,13 +2,20 @@
 
 ## 배규태 · Backend / AI 서비스 개발자
 
-**AI 서비스의 데이터 파이프라인을 만들고, 병목을 측정해서 고칩니다.**
-
 <a href="https://github.com/f-lab-edu/Biblio"><img src="https://img.shields.io/badge/Biblio-영상_RAG-2F6FEB?style=flat-square&logo=github&logoColor=white" alt="Biblio"/></a>
 <a href="https://github.com/SoftBank-Hackathon-2026-Team-Amethyst/one-tatchi-platform"><img src="https://img.shields.io/badge/oneTatchi-AI_배포_플랫폼-2F6FEB?style=flat-square&logo=github&logoColor=white" alt="oneTatchi platform"/></a>
 <a href="https://github.com/baekyutae/portfolio"><img src="https://img.shields.io/badge/Bee_careful-꿀벌_질병_진단-2F6FEB?style=flat-square&logo=github&logoColor=white" alt="Bee careful"/></a>
 
 </div>
+
+---
+
+### Introduction
+
+**AI 서비스의 데이터 파이프라인 구축과 성능 개선에 강점이 있는 개발자입니다.**
+
+- 영상의 음성과 장면 정보를 검색 데이터로 가공하고, 검색 결과를 근거로 LLM이 답변하는 RAG 서비스를 설계·구현해 GCP에 배포
+- 영상 처리 중 발생한 메모리 부족과 처리 대기의 원인을 분석하고, 처리 구조를 개선해 동일 조건의 테스트에서 메모리 사용률 감소(62.54% → 14.37%)와 처리량 향상(17.4%)
 
 ---
 
